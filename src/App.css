@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+  
+  @import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@600&display=swap');
+
+.nub{
+  font-family: 'Martian Mono', monospace;
+  font-size: 12px;
+  
+}
+
+
+.menu{
+  text-align: end;
+  margin-right: 150px;
+ 
+}
